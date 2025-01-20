@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
 </a>
 
-## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
+## To Run the Project
+Open and execute the file '1.0-lg-sentiment-analysis.ipynb' under notebooks folder
 
 ## Adjusting .gitignore
 
